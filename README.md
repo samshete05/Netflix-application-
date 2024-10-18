@@ -24,18 +24,8 @@ This project implements a registration and login system using JSON Web Tokens (J
 - User registration
 - User login
 - JWT-based authentication
-- Protected routes
 - Basic user interface for registration and login
 
-## Installation
-
-### Prerequisites
-
-Make sure you have the following installed on your machine:
-
-- Node.js
-- MongoDB
-- npm or yarn
 
 ### Backend Setup
 
