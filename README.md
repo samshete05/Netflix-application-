@@ -27,9 +27,3 @@ This project implements a registration and login system using JSON Web Tokens (J
 - Basic user interface for registration and login
 
 
-### Backend Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/registration-login-jwt.git
-   cd registration-login-jwt/backend
